@@ -1,1 +1,1 @@
-# Models package registration
+from app.models.user import User
